@@ -9,6 +9,7 @@
 - Simple and interactive UI
 # Screenshots
 -  ![image](https://github.com/user-attachments/assets/e40b7951-ad50-4a6c-a2e8-d9301ef0ff56)
+-  ![image](https://github.com/user-attachments/assets/e1c942cf-a1cc-4cf1-988a-972b8ec38d8e)
 # Technical Stack
  - HTML5
  - CSS3
